@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GydaRagnarsdottir
+- 👋 Hi, I’m @GydaRagnarsdottir, humble servant of the highest good, pursuer of infinity.
 - 👀 I’m interested in Physics, Universal AI, 3D modelling, GAN
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
