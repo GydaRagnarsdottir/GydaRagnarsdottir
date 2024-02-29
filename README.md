@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GydaRagnarsdottir, humble maid of the highest good, pursuer of infinity.
 - 👀 I’m interested in Physics, Universal AI, 3D modelling, GAN
-- 🌱 I’m currently learning GAN
+- 🌱 I’m currently learning VAE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
